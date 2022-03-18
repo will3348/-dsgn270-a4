@@ -1,0 +1,594 @@
+/* home */
+
+position: relative;
+width: 1170px;
+height: 2316px;
+
+background: #FFFFFF;
+
+
+/* header */
+
+position: absolute;
+width: 1171px;
+height: 304px;
+left: 0px;
+top: 0px;
+
+
+
+/* background */
+
+position: absolute;
+width: 1171px;
+height: 62px;
+left: 0px;
+top: 0px;
+
+background: #D9D9D6;
+
+
+/* top instrustion */
+
+position: absolute;
+width: 1171px;
+height: 65px;
+left: 0px;
+top: 11px;
+
+
+
+/* top instruction */
+
+position: absolute;
+width: 1088px;
+height: 36px;
+left: 42px;
+top: 11px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1171px;
+height: 16px;
+left: 0px;
+top: 60px;
+
+background: #000000;
+
+
+/* sign in sign up */
+
+position: absolute;
+width: 159px;
+height: 111px;
+left: 14px;
+top: 85px;
+
+
+
+/* SIGN IN */
+
+position: absolute;
+width: 87px;
+height: 9px;
+left: 14px;
+top: 85px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* / REGISTER */
+
+position: absolute;
+width: 80px;
+height: 16px;
+left: 80px;
+top: 85px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* SIGN UP FOR EMAIL STORE LOCATOR */
+
+position: absolute;
+width: 144px;
+height: 57px;
+left: 29px;
+top: 139px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* title */
+
+position: absolute;
+width: 476px;
+height: 159px;
+left: 287px;
+top: 145px;
+
+/* Heading/h1: Regular */
+font-family: 'Barrio';
+font-style: normal;
+font-weight: 400;
+font-size: 151px;
+line-height: 170px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Screenshot 2022-03-17 141208 1 */
+
+position: absolute;
+width: 215px;
+height: 125px;
+left: 883px;
+top: 129px;
+
+background: url(Screenshot 2022-03-17 141208.png);
+
+
+/* navigation */
+
+position: absolute;
+width: 1170px;
+height: 56px;
+left: 1px;
+top: 362px;
+
+border: 1px solid #000000;
+
+
+/* navi */
+
+position: absolute;
+width: 1170px;
+height: 61px;
+left: 0px;
+top: 0px;
+
+/* Iris/60 */
+background: #A5A6F6;
+
+
+/* WINE SPIRITS BEER & CIDER COOLERS VINTAGES FOOD & DRINK GIFTS NEW ARRIVALS COLLECTIONS ON SALE */
+
+position: absolute;
+width: 1099px;
+height: 42px;
+left: 13px;
+top: 19px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* hero */
+
+position: absolute;
+width: 1170px;
+height: 633px;
+left: 1px;
+top: 418px;
+
+
+
+/* background image */
+
+position: absolute;
+width: 1170px;
+height: 633px;
+left: 1px;
+top: 418px;
+
+background: url(beer.png);
+
+
+/* want some beer Today? */
+
+position: absolute;
+width: 721px;
+height: 157px;
+left: 203px;
+top: 423px;
+
+font-family: 'Mate SC';
+font-style: normal;
+font-weight: 400;
+font-size: 144px;
+line-height: 176px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* card section */
+
+position: absolute;
+width: 1128px;
+height: 702px;
+left: 22px;
+top: 1086px;
+
+
+
+/* Component 1 */
+
+position: absolute;
+width: 316px;
+height: 590px;
+left: 22px;
+top: 1198px;
+
+
+
+/* card */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #EAEAEB;
+border-radius: 109px;
+
+
+/* budweiser 1 */
+
+position: absolute;
+left: 19.3%;
+right: 18.99%;
+top: 4.75%;
+bottom: 27.12%;
+
+background: url(budweiser.jpg);
+
+
+/* Budweiser */
+
+position: absolute;
+left: 12.66%;
+right: 11.39%;
+top: 78.64%;
+bottom: 14.58%;
+
+font-family: 'Alumni Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Component 2 */
+
+position: absolute;
+width: 316px;
+height: 590px;
+left: 428px;
+top: 1198px;
+
+
+
+/* card */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #EAEAEB;
+border-radius: 109px;
+
+
+/* budweiser 1 */
+
+position: absolute;
+left: 19.3%;
+right: 18.99%;
+top: 4.75%;
+bottom: 27.12%;
+
+background: url(coors.jpg);
+
+
+/* Budweiser */
+
+position: absolute;
+left: 12.66%;
+right: 11.39%;
+top: 78.64%;
+bottom: 14.58%;
+
+font-family: 'Alumni Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Component 3 */
+
+position: absolute;
+width: 316px;
+height: 590px;
+left: 834px;
+top: 1198px;
+
+
+
+/* card */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #EAEAEB;
+border-radius: 109px;
+
+
+/* budweiser 1 */
+
+position: absolute;
+left: 19.3%;
+right: 18.99%;
+top: 4.75%;
+bottom: 27.12%;
+
+background: url(corona.jpg);
+
+
+/* Budweiser */
+
+position: absolute;
+left: 12.66%;
+right: 11.39%;
+top: 78.64%;
+bottom: 14.58%;
+
+font-family: 'Alumni Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* On Sale Now */
+
+position: absolute;
+width: 631px;
+height: 82px;
+left: 264px;
+top: 1086px;
+
+/* Heading/h3: Regular */
+font-family: 'Barrio';
+font-style: normal;
+font-weight: 400;
+font-size: 58px;
+line-height: 65px;
+text-align: center;
+
+/* red/300 */
+color: #BD1D1D;
+
+
+
+/* footer */
+
+position: absolute;
+width: 1170px;
+height: 504px;
+left: 0px;
+top: 1805px;
+
+
+
+/* footer */
+
+position: absolute;
+width: 1170px;
+height: 504px;
+left: 0px;
+top: 1805px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* sites */
+
+position: absolute;
+width: 282px;
+height: 280px;
+left: 39px;
+top: 1840px;
+
+
+
+/* INFORMATION About LCBO Media Centre Sustainability Careers Accessibility Online Order FAQ Delivery Options */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 32px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* resources */
+
+position: absolute;
+width: 282px;
+height: 280px;
+left: 287px;
+top: 1840px;
+
+
+
+/* INFORMATION About LCBO Media Centre Sustainability Careers Accessibility Online Order FAQ Delivery Options */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 32px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* policies */
+
+position: absolute;
+width: 282px;
+height: 280px;
+left: 567px;
+top: 1840px;
+
+
+
+/* INFORMATION About LCBO Media Centre Sustainability Careers Accessibility Online Order FAQ Delivery Options */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 32px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* information */
+
+position: absolute;
+width: 282px;
+height: 280px;
+left: 868px;
+top: 1840px;
+
+
+
+/* INFORMATION About LCBO Media Centre Sustainability Careers Accessibility Online Order FAQ Delivery Options */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 32px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* © 2021 LCBO */
+
+position: absolute;
+width: 308px;
+height: 49px;
+left: 76px;
+top: 2260px;
+
+/* Heading/h5: Regular */
+font-family: 'Barrio';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 25px;
+text-align: center;
+
+color: #000000;
+
